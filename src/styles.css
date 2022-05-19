@@ -1,0 +1,44 @@
+.enlaces:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+.letra{
+    width: fit-content;
+}
+.fondo{
+    background-color: darkslategrey;
+}
+.boton{
+    background-color: darkslategrey!important;
+    color:aliceblue!important;
+}
+.boton:hover{
+    background-color: cadetblue!important;
+}
+.altura{
+    height: 2.5rem!important;
+}
+.justificados{
+    justify-content: space-between;
+    align-items: center;
+}
+.veinte{
+    min-width: max-content;
+}
+.left{
+    justify-content: flex-start;
+    align-items: center;
+}
+.right{
+    justify-content: flex-end;
+    align-items: center;
+}
+.cuarto{
+    width: 20%!important;
+}
+.full{
+    min-width: 50%!important;
+}
+.completo{
+    width: 100%!important;
+}
